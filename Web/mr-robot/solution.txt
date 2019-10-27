@@ -1,0 +1,4 @@
+Head to file robots.txt
+User-agent: *
+Disallow: /not-flag.txt
+Head to /not-flag.txt
