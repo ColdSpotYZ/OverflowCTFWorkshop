@@ -1,0 +1,4 @@
+#!/bin/bash
+
+curl https://mr-robot.coldspot.wtf/not-flag.txt
+echo
