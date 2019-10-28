@@ -1,1 +1,12 @@
-wdwdw
+cat rubbish | grep CTF
+  Binary file (standard input) matches
+
+strings rubbish | grep CTF
+CTF{grepH
+
+strings rubbish
+CTF{grepH
+_the_strH
+ings}
+
+flag : CTF{grepH_the_strHings}
