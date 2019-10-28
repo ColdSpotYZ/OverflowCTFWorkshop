@@ -12,7 +12,7 @@ int main()
 	int option = 1;
 	int Balance = 100;
 	int amountFakeFlag;
-	unsigned int cost;
+	int cost;
 	while (option != 0)
 	{
 		printf("%s\n%s\n%s\n%s\n","[0]Exit","[1]Check Your Money/Balance","[2]Buy Fake Flag","[3]Buy Authentic Flag");
