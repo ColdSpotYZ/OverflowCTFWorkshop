@@ -1,0 +1,3 @@
+Open file in Hopper Disassembler
+Copy Ordinal representation of char to a file
+Get the Character representation of said Ordinal characters and turn them back into ASCII

@@ -1,0 +1,3 @@
+Ez method : Run Strings on it
+
+Intended Method : Run it in Hopper Disassembler. Locate the string variable
