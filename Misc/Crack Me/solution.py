@@ -9,5 +9,5 @@ s.recvline()
 for i in range(10000):
 	s.sendline('A')
 	temp = s.recvline()
-	if "HNF" in temp:
+	if "CTF" in temp:
 		print(temp)
