@@ -1,7 +1,7 @@
 import os
 
 #os.system("cat CTF{flag} > flag.txt")
-os.system("tar -cf 0.tar flag.txt")
+os.system("tar -cf 0.tar flag.png")
 
 
 for i in range(1000):
